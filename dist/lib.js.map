@@ -1,0 +1,1 @@
+{"version":3,"file":"lib.js","names":["Annotator"],"sources":["../src/lib.js"],"sourcesContent":["import Annotator from './Annotator'\nexport { Annotator }\nexport default Annotator"],"mappings":"AAAA,OAAOA,SAAP,MAAsB,aAAtB;AACA,SAASA,SAAT;AACA,eAAeA,SAAf"}

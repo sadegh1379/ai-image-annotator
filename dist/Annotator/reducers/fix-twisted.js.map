@@ -1,0 +1,1 @@
+{"version":3,"file":"fix-twisted.js","names":["pointsWithAngles"],"sources":["../../../src/Annotator/reducers/fix-twisted.js"],"sourcesContent":["export default (function (pointsWithAngles) {\n  // Adjacent angles should not have an angular distance of more than Math.PI\n\treturn pointsWithAngles\n})"],"mappings":"AAAA,gBAAgB,UAAUA,gBAAV,EAA4B;EAC1C;EACD,OAAOA,gBAAP;AACA,CAHD"}
